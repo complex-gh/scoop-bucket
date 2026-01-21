@@ -1,0 +1,19 @@
+{
+    "version": "0.0.6",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/complex-gh/seedify/releases/download/v0.0.6/seedify_0.0.6_Windows_i386.zip",
+            "bin": [
+                "seedify_0.0.6_Windows_i386/seedify.exe"
+            ],
+            "hash": "280e219404ffaa7443cdc6d1cceca76fc0b2e5720e57b74f2b2318c43c8590be"
+        },
+        "64bit": {
+            "url": "https://github.com/complex-gh/seedify/releases/download/v0.0.6/seedify_0.0.6_Windows_x86_64.zip",
+            "bin": [
+                "seedify_0.0.6_Windows_x86_64/seedify.exe"
+            ],
+            "hash": "be89ece75290d3bde35d5fc1d5843243299a670ca25f9cb6bad5ac513beb019c"
+        }
+    }
+}
