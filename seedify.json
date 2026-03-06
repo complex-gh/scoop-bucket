@@ -1,19 +1,19 @@
 {
-    "version": "1.14.0",
+    "version": "1.15.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/complex-gh/seedify/releases/download/v1.14.0/seedify_1.14.0_Windows_i386.zip",
+            "url": "https://github.com/complex-gh/seedify/releases/download/v1.15.0/seedify_1.15.0_Windows_i386.zip",
             "bin": [
-                "seedify_1.14.0_Windows_i386/seedify.exe"
+                "seedify_1.15.0_Windows_i386/seedify.exe"
             ],
-            "hash": "1db7b8261b59f7fef5c724a0f564fa45db149c3906efaee91a05688938eb9988"
+            "hash": "fd9993730409a7d997f9080ca0ea29e4bed432d76033c66fc63c0e3483363ecc"
         },
         "64bit": {
-            "url": "https://github.com/complex-gh/seedify/releases/download/v1.14.0/seedify_1.14.0_Windows_x86_64.zip",
+            "url": "https://github.com/complex-gh/seedify/releases/download/v1.15.0/seedify_1.15.0_Windows_x86_64.zip",
             "bin": [
-                "seedify_1.14.0_Windows_x86_64/seedify.exe"
+                "seedify_1.15.0_Windows_x86_64/seedify.exe"
             ],
-            "hash": "802c809d1bbd8d0938bfb8e2c4d0dd257122c6e0004a4087240765044a43b49a"
+            "hash": "dd9237b22af9179f5e10d4a34d8f47560b33694e08898a41495a3b098f99dcd0"
         }
     },
     "homepage": "https://github.com/complex-gh/seedify",
