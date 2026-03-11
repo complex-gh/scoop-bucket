@@ -6,14 +6,14 @@
             "bin": [
                 "seedify_1.16.0_Windows_i386/seedify.exe"
             ],
-            "hash": "bd10af58e26eda87c570d80ea5d3b77a6c5b0c34acc5cdfe46b483ec2b0cd6ab"
+            "hash": "4648dc7b8e06a6f084e32d7703796c5b9660731867b43f77281298688ef8e8ba"
         },
         "64bit": {
             "url": "https://github.com/complex-gh/seedify/releases/download/v1.16.0/seedify_1.16.0_Windows_x86_64.zip",
             "bin": [
                 "seedify_1.16.0_Windows_x86_64/seedify.exe"
             ],
-            "hash": "af8d998e3c7228fb7d8cc11cdfd64c9ef4614daca3516390b237d92d2a5ab307"
+            "hash": "500bc7371cf33a8ee1eeaf600de4b079fd26f678ef890d9dd62c0b3126ddf3d2"
         }
     },
     "homepage": "https://github.com/complex-gh/seedify",
